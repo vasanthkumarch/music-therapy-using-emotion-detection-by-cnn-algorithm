@@ -1,4 +1,4 @@
-## MUSIC THERAPY USING EMOTION DETECTION USING REAL TIME CAPTURE USING CNN ALGORITHM
+## MUSIC THERAPY USING EMOTION DETECTION USING AND REAL TIME CAPTURE USING CNN ALGORITHM
 ## AIM:
 The primary goal of this project is to create an innovative system that seamlessly integrates real-time emotion detection using CNNs into music therapy sessions.
 
