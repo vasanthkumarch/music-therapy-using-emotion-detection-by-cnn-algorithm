@@ -12,9 +12,9 @@ The primary goal of this project is to create an innovative system that seamless
 4.Integration with Music Player
 
 ## REQUIREMENTS:
-1.jupyter notebook
+1.Jupyter notebook
 
-2.opencv
+2.Opencv
 
 3.numpy
 
@@ -25,7 +25,8 @@ The primary goal of this project is to create an innovative system that seamless
 
 
 ## PACKAGES
-1.install opencv 2.install numpy
+1.install opencv
+2.install numpy
 
 ## APPLICATIONS 
 1.Healthcare and Mental Wellness:
